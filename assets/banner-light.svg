@@ -1,9 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Thomas Snyder — AI Systems, Backend Engineering, Infrastructure">
-<rect width="900" height="200" fill="#ffffff"/>
-<defs><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13.0" cy="13.0" r="1.1" fill="#eaeef2"/></pattern></defs><rect width="900" height="200" fill="url(#dots)"/>
-<rect x="0" y="0" width="900" height="3" fill="#0969da"/>
-<text x="52" y="96" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="60" font-weight="650" fill="#1f2328">Thomas Snyder</text>
-<rect x="54" y="119" width="54" height="4" rx="2" fill="#0969da"/>
-<text x="52" y="160" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="26" fill="#59636e">AI Systems · Backend · Infrastructure</text>
-<g transform="translate(610,58)" opacity="0.95"><line x1="0" y1="46" x2="58" y2="0" stroke="#d1d9e0" stroke-width="1.5"/><line x1="0" y1="46" x2="58" y2="92" stroke="#d1d9e0" stroke-width="1.5"/><line x1="58" y1="0" x2="140" y2="46" stroke="#d1d9e0" stroke-width="1.5"/><line x1="58" y1="92" x2="140" y2="46" stroke="#d1d9e0" stroke-width="1.5"/><line x1="140" y1="46" x2="222" y2="8" stroke="#d1d9e0" stroke-width="1.5"/><line x1="140" y1="46" x2="222" y2="84" stroke="#d1d9e0" stroke-width="1.5"/><line x1="222" y1="8" x2="280" y2="46" stroke="#d1d9e0" stroke-width="1.5"/><line x1="222" y1="84" x2="280" y2="46" stroke="#d1d9e0" stroke-width="1.5"/><circle cx="0" cy="46" r="4.5" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.8"/><circle cx="58" cy="0" r="4.5" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.8"/><circle cx="58" cy="92" r="4.5" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.8"/><circle cx="140" cy="46" r="6.5" fill="#0969da" stroke="#0969da" stroke-width="1.8"/><circle cx="222" cy="8" r="4.5" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.8"/><circle cx="222" cy="84" r="4.5" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.8"/><circle cx="280" cy="46" r="4.5" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.8"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Thomas Snyder — Useful software. Fewer plot twists.</title>
+  <desc id="desc">Software developer working in AI systems, backend engineering, and infrastructure. An isometric diagram connects three modular layers.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#CBD8D2" stroke-width=".7"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="8" fill="#F5F5EE"/>
+  <rect x="840" y="32" width="320" height="266" fill="url(#grid)" opacity=".36"/>
+  <path d="M48 44H70" stroke="#176C56" stroke-width="3"/>
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="15" fill="#4C6A71" letter-spacing="1.4">
+    <text x="84" y="50">AI SYSTEMS / BACKEND / INFRASTRUCTURE</text>
+  </g>
+  <g font-family="'Inter Display', Inter, 'Segoe UI', Arial, sans-serif">
+    <text x="44" y="139" font-size="78" font-weight="700" letter-spacing="-3.5" fill="#172B32">Thomas Snyder</text>
+    <text x="48" y="212" font-size="45" font-weight="500" letter-spacing="-1.4" fill="#172B32">Useful software.</text>
+    <text x="48" y="267" font-size="45" font-weight="500" letter-spacing="-1.4" fill="#176C56">Fewer plot twists.</text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g fill="#E3EEE7" stroke="#176C56" stroke-width="1.6">
+      <path d="M861 235L974 176L1124 243L1011 302Z"/>
+      <path d="M861 223L974 164L1124 231L1011 290Z" fill="#F5F5EE"/>
+      <path d="M861 223V235L1011 302V290M1011 290L1124 231V243"/>
+    </g>
+    <g fill="#E3EEE7" stroke="#172B32" stroke-width="1.6">
+      <path d="M861 167L974 108L1124 175L1011 234Z"/>
+      <path d="M861 155L974 96L1124 163L1011 222Z" fill="#F5F5EE"/>
+      <path d="M861 155V167L1011 234V222M1011 222L1124 163V175"/>
+    </g>
+    <g fill="#E3EEE7" stroke="#176C56" stroke-width="1.6">
+      <path d="M861 99L974 40L1124 107L1011 166Z"/>
+      <path d="M861 87L974 28L1124 95L1011 154Z" fill="#F5F5EE"/>
+      <path d="M861 87V99L1011 166V154M1011 154L1124 95V107"/>
+    </g>
+    <g fill="none" stroke="#4C6A71" stroke-width="1.5" stroke-dasharray="4 5">
+      <path d="M886 99V167M1088 114V182M978 140V208M933 193V261M1066 196V264"/>
+    </g>
+    <g fill="none" stroke="#176C56" stroke-width="1.8">
+      <path d="M933 50L1000 80L1066 50"/>
+      <path d="M886 99L978 140L1088 114"/>
+      <path d="M887 168L933 193L1041 138"/>
+      <path d="M978 209L1066 196L1090 181"/>
+      <path d="M887 236L933 261L1066 264"/>
+    </g>
+    <g fill="#F5F5EE" stroke="#176C56" stroke-width="2">
+      <circle cx="933" cy="50" r="5"/><circle cx="1000" cy="80" r="5"/>
+      <circle cx="886" cy="99" r="5"/><circle cx="978" cy="140" r="5"/><circle cx="1088" cy="114" r="5"/>
+      <circle cx="887" cy="168" r="5"/><circle cx="933" cy="193" r="5"/><circle cx="1041" cy="138" r="5"/>
+      <circle cx="978" cy="209" r="5"/><circle cx="1066" cy="196" r="5"/><circle cx="1090" cy="181" r="5"/>
+      <circle cx="887" cy="236" r="5"/><circle cx="933" cy="261" r="5"/><circle cx="1066" cy="264" r="5"/>
+    </g>
+  </g>
+  <path d="M48 310H1152" stroke="#CBD8D2" stroke-width="1"/>
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="13" fill="#4C6A71" letter-spacing="1.3">
+    <text x="48" y="338">SOFTWARE DEVELOPER</text>
+    <text x="445" y="338">CLARKS SUMMIT, PA</text>
+    <text x="877" y="338">BUILD / CONNECT / VERIFY</text>
+  </g>
 </svg>
