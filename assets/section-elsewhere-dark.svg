@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-labelledby="title desc"><title id="title">05 — elsewhere</title><desc id="desc">05 — elsewhere</desc>
+<defs><clipPath id="frame"><path d="M8 0H1192V8H1200V96H1192V104H8V96H0V8H8Z"/></clipPath></defs><g clip-path="url(#frame)">
+<rect width="1200" height="104" fill="#0B2238"/><rect y="76" width="1200" height="28" fill="#102C43"/>
+<rect x="28" y="36" width="8" height="8" fill="#F2BB6B"/><text x="48" y="63" font-family="'Lucida Console', 'Courier New', monospace" font-size="26" font-weight="700" letter-spacing="0" fill="#73AFC5">05</text>
+<text x="120" y="72" font-family="'Arial Black', 'Inter Display', 'Segoe UI Black', Impact, sans-serif" font-size="56" font-weight="900" letter-spacing="-2" fill="#DCE4EE">ELSEWHERE</text>
+<text x="864" y="61" font-family="'Lucida Console', 'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="1" fill="#73AFC5">DESIGN / AFTER HOURS</text><path d="M828 28V76" stroke="#266C87"/></g>
+<path d="M8 0H1192V8H1200V96H1192V104H8V96H0V8H8Z" fill="none" stroke="#266C87" stroke-width="2"/>
+</svg>
